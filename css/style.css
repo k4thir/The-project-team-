@@ -79,3 +79,9 @@ background-color:#c4c735;
   clear: both;
   word-spacing: 10px;
 }
+.pos{
+  position: relative;
+}
+.pos1{
+  position: absolute;
+}

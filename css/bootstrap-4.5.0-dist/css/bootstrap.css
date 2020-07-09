@@ -4408,6 +4408,7 @@ input[type="button"].btn-block {
   align-items: center;
   z-index: 1000;
   opacity: 1;
+  font-weight: bolder;
 }
 
 .navbar-toggler {
